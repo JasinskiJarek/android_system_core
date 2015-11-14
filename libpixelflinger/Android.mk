@@ -16,6 +16,8 @@ PIXELFLINGER_SRC_FILES:= \
     codeflinger/blending.cpp \
     codeflinger/texturing.cpp \
     codeflinger/disassem.c \
+    	codeflinger/tinyutils/SharedBuffer.cpp \
+	codeflinger/tinyutils/VectorImpl.cpp \
 	fixed.cpp.arm \
 	picker.cpp.arm \
 	pixelflinger.cpp.arm \
